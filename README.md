@@ -4,7 +4,7 @@
 
 #### [See it Live](https://poudelmezone.github.io/birthday)
 
-It was a birthday of my sister and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Birthday.
+It was the birthday of my sister and I wanted to wish her in a special way. So I put together this animated web page real quick to say Happy Birthday.
 
 Feel free to use it to wish your friend if you want.
 You can get it running in a few easy steps:
@@ -25,9 +25,4 @@ If you have any idea to make it more interesting, feel free to send a PR, or cre
 Stay happy and keep the people you care about happy. :)
 
 `Demo`
-<img src="https://github.com/piyush168713/Happy-birthday-1/blob/main/dipika.jpg?raw=true">
-  
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
-
+<img src="https://github.com/poudelmezone/birthday/blob/main/dipika.jpg?raw=true">
