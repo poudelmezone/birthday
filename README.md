@@ -26,3 +26,7 @@ Stay happy and keep the people you care about happy. :)
 
 `Demo`
 <img src="https://github.com/poudelmezone/birthday/blob/main/dipika.jpg?raw=true">
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
